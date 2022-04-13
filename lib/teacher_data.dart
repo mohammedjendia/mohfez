@@ -134,10 +134,7 @@ class Teacher_data extends StatelessWidget {
                         'حاضر',
                         style: TextStyle(color: Colors.grey[600], fontSize: 18),
                       ),
-                      Text(
-                        'بلننلبل',
-                        style: TextStyle(color: Colors.grey[600], fontSize: 18),
-                      ),
+
                     ],
                   ),
                 ),
